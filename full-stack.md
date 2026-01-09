@@ -61,4 +61,4 @@ We aren't looking for a perfect UI; we are looking for technical depth:
 
 ---
 
-**Good luck, Asher. We are looking for high-agency engineers who can build for the future of agentic workflows.**
+**Good luck, Asher. We are looking for engineers who can build for the future of agentic workflows.**
