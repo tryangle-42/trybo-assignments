@@ -34,7 +34,7 @@ Build a functional prototype of a **human-in-the-loop agentic system**. You will
 
 ## **2. Evaluation Metrics**
 
-We aren't looking for a perfect UI; we are looking for a **Founding Engineer's** technical depth:
+We aren't looking for a perfect UI; we are looking for technical depth:
 
 1. **Backend "Figure-it-out" Ability:** How well did you handle the state machine on the FastAPI server (handling pauses and approvals)?
 2. **Attention to Detail:** Did you handle race conditions? What happens if the user hits "Stop" at the exact moment the agent finishes? 
